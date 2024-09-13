@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "Dongle_charger-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Dongle_charger-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Crystal_32MHz")(type "KiCad")(uri "C:/Users/vanec/OneDrive/Bureau/PROJECTS/Kicad/MyLibrary/SymbolInternet/ECS-320-8-37-CKM-TR3.kicad_sym")(options "")(descr ""))
+  (lib (name "Connectors2")(type "KiCad")(uri "C:/Users/vanec/OneDrive/Bureau/PROJECTS/Kicad/MyLibrary/SymbolInternet/Connectors2.kicad_sym")(options "")(descr ""))
+  (lib (name "TS04-66-65-BK-160-SMT")(type "KiCad")(uri "C:/Users/vanec/OneDrive/Bureau/PROJECTS/Kicad/MyLibrary/SymbolInternet/TS04-66-65-BK-160-SMT.kicad_sym")(options "")(descr ""))
+)
